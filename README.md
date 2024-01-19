@@ -31,5 +31,3 @@ Use the "+" buttons to increment scores for each player.
 Select the desired winning score from the dropdown menu.
 
 Click the "Reset" button to start a new game.
-
-Live at: https://kartik26113.github.io/ScoreKeeper/
