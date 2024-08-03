@@ -18,3 +18,4 @@
         <li>Click the "Reset" button to start a new game.</li>
     </ol>
 <a href="https://bitof-kartik.github.io/ScoreKeeper/"> ScoreKeeper</a>
+Thankyou!!
